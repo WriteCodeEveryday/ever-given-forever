@@ -14,3 +14,18 @@ This is a Native Android application targeting SDK version 19 or higher (Android
 
 A full gradle project is provided but there are dependencies that are not bundled.
 **Dependencies:** [Brother Print Library](https://developerprogram.brother-usa.com/sdk-download)
+
+# Sample files used for testing.
+
+## 2-Lined Labels
+<img src="./samples/sample_2_label.jpg"/>
+<img src="./samples/sample_2_label.png"/>
+
+## 3-Lined Labels
+<img src="./samples/sample_3_label.png"/>
+
+## 4-Lined Labels
+<img src="./samples/sample_4_label.jpg"/>
+
+## License Rear - PDF417
+<img src="./samples/sample_pdf417.png"/>
