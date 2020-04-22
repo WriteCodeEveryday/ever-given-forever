@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Camera 2\nLabel</string>
+
+    <string name="label_overlay_text">Center label in the box below.</string>
+    <string name="qr_label_overlay_text">Make sure the QR code is in the box below.</string>
+    <string name="license_overlay_text">Center back of license is in the box below.</string>
+
+    <string name="no_results_text">No Results Found</string>
+    <string name="tap_preview_to_print_text">Tap the Preview to Print.</string>
+    <string name="tap_to_refresh_hint">Tap the Preview to Refresh.</string>
+    <string name="tap_usb_to_preview_text">Don\'t have the Printer? Use USB.</string>
+
+    <string name="preview_edit_button">Edit</string>
+    <string name="preview_save_button">Save</string>
+
+    <string name="printer_scan_button">Scan</string>
+    <string name="printer_scan_cancel_button">Cancel</string>
+    <string name="printer_scanner_picture_button">Scan Picture File</string>
+    <string name="printer_scanner_ocr_button">Scan Label using OCR</string>
+    <string name="printer_scanner_qr_button">Scan QR Label</string>
+    <string name="printer_scanner_license_button">Scan License Rear</string>
+</resources>
