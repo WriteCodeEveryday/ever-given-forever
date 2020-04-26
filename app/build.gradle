@@ -7,9 +7,9 @@ android {
     defaultConfig {
         applicationId "com.challenge.license2label"
         minSdkVersion 19
-        targetSdkVersion 26
-        versionCode 1
-        versionName "1.0"
+        targetSdkVersion 28
+        versionCode 2
+        versionName "2.0-BUGFIX"
         multiDexEnabled true
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"

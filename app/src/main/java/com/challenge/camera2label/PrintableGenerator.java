@@ -36,7 +36,7 @@ public class PrintableGenerator {
         }
 
         Resources resources = ctx.getResources();
-        int scale = (int) resources.getDisplayMetrics().density;
+        int scale = 3; //Force it to xxhdpi
         int resource = ctx.getResources().getIdentifier(file, "drawable", ctx.getPackageName());
         Bitmap bitmap = BitmapFactory.decodeResource(resources, resource);
         if (bitmap == null) {
