@@ -11,4 +11,10 @@
 /build
 /captures
 .externalNativeBuild
+<<<<<<< HEAD
 .cxx
+=======
+.cxx
+
+/BrotherPrintLibrary/
+>>>>>>> b172c2df64b21b7735d5314a9a6b913c7392542d
