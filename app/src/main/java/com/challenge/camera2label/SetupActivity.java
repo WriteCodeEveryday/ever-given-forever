@@ -385,7 +385,6 @@ public class SetupActivity extends AppCompatActivity {
             }
         });
     }
-
     private void hideScanOptions() {
         runOnUiThread(new Runnable() {
             @Override

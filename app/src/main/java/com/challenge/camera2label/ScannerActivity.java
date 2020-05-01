@@ -35,7 +35,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.List;
 
-public class ScannerActivity extends AppCompatActivity {
+public class ScannerActivity extends Activity {
     private boolean isPrinting = false;
     private boolean shouldPrint;
     private Camera mCamera;

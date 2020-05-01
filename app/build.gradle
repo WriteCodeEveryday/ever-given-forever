@@ -8,13 +8,8 @@ android {
         applicationId "com.challenge.license2label"
         minSdkVersion 19
         targetSdkVersion 28
-<<<<<<< HEAD
         versionCode 2
         versionName "2.0-BUGFIX"
-=======
-        versionCode 1
-        versionName "1.0"
->>>>>>> b172c2df64b21b7735d5314a9a6b913c7392542d
         multiDexEnabled true
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
