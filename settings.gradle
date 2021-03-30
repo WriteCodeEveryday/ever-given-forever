@@ -1,2 +1,3 @@
-rootProject.name='License2Label'
+include ':BrotherPrintLibrary'
+rootProject.name='EveryGivenForever'
 include ':app', ':BrotherPrintLibrary'
