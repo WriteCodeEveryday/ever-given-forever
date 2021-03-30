@@ -13,3 +13,7 @@ This is a Native Android application targeting SDK version 19 or higher (Android
 A full gradle project is provided but there are dependencies that are not bundled.
 **Dependencies:** [Brother Print Library](https://developerprogram.brother-usa.com/sdk-download)
 
+## Weird Stuff
+
+**Now an NFT:** [Of course that's a thing](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/47022020929642050218290093558450939018997364037934722709349587127430176309249) 
+
